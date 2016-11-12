@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: de7334723d77a46f59cbd760eb60cbac
-timeCreated: 1453302832
+timeCreated: 1478887272
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -19,6 +19,15 @@ TextureImporter:
     21300024: Gameplay Elements_12
     21300026: Gameplay Elements_13
     21300028: Gameplay Elements_14
+    21300030: Resume game button
+    21300032: Quit game button
+    21300034: Cloud 1
+    21300036: Clod 2
+    21300038: Pause
+    21300040: Cloud 3
+    21300042: Dark cloud
+    21300044: Score UI
+    21300046: Ready To Play The Game
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -61,11 +70,14 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: ResumeGameButton
+    - serializedVersion: 2
+      name: Resume game button
       rect:
         serializedVersion: 2
         x: 1
@@ -75,13 +87,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -95.5, y: 19}
-        - {x: -95.5, y: -19}
-        - {x: 93.5, y: -19}
-        - {x: 95.5, y: -18}
-        - {x: 95.5, y: 19}
-    - name: Life
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Life
       rect:
         serializedVersion: 2
         x: 203
@@ -91,16 +100,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -5.5, y: 26}
-        - {x: -17.5, y: 12}
-        - {x: -21.5, y: 0}
-        - {x: -21.5, y: -14}
-        - {x: -7.5, y: -26}
-        - {x: 9.5, y: -26}
-        - {x: 21.5, y: -17}
-        - {x: 21.5, y: 26}
-    - name: QuitGameButton
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Quit game button
       rect:
         serializedVersion: 2
         x: 0
@@ -110,12 +113,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -96, y: 18.5}
-        - {x: -96, y: -18.5}
-        - {x: 96, y: -18.5}
-        - {x: 96, y: 18.5}
-    - name: Coin
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coin
       rect:
         serializedVersion: 2
         x: 204
@@ -125,15 +126,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -20.5, y: 20.5}
-        - {x: -20.5, y: -14.5}
-        - {x: -15.5, y: -20.5}
-        - {x: 12.5, y: -20.5}
-        - {x: 20.5, y: -13.5}
-        - {x: 20.5, y: 13.5}
-        - {x: 19.5, y: 20.5}
-    - name: Cloud1
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cloud 1
       rect:
         serializedVersion: 2
         x: 7
@@ -143,14 +139,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -85, y: 21.5}
-        - {x: -85, y: -8.5}
-        - {x: -68, y: -21.5}
-        - {x: 69, y: -21.5}
-        - {x: 85, y: -16.5}
-        - {x: 85, y: 21.5}
-    - name: Cloud2
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clod 2
       rect:
         serializedVersion: 2
         x: 11
@@ -160,14 +152,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -73, y: 21.5}
-        - {x: -86, y: 13.5}
-        - {x: -86, y: -21.5}
-        - {x: 86, y: -21.5}
-        - {x: 86, y: 17.5}
-        - {x: 57, y: 21.5}
-    - name: PauseButton
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pause
       rect:
         serializedVersion: 2
         x: 203
@@ -177,16 +165,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19, y: 20}
-        - {x: -20, y: 15}
-        - {x: -20, y: -15}
-        - {x: -16, y: -20}
-        - {x: 19, y: -20}
-        - {x: 20, y: -19}
-        - {x: 20, y: 14}
-        - {x: 17, y: 20}
-    - name: Cloud3
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cloud 3
       rect:
         serializedVersion: 2
         x: 8
@@ -196,14 +178,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -86, y: 21.5}
-        - {x: -86, y: -1.5}
-        - {x: -25, y: -21.5}
-        - {x: 28, y: -21.5}
-        - {x: 86, y: 2.5}
-        - {x: 86, y: 21.5}
-    - name: DarkCloud
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dark cloud
       rect:
         serializedVersion: 2
         x: 6
@@ -213,17 +191,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -34, y: 24.5}
-        - {x: -53, y: 13.5}
-        - {x: -59, y: 1.5}
-        - {x: -59, y: -15.5}
-        - {x: -47, y: -24.5}
-        - {x: 40, y: -24.5}
-        - {x: 59, y: -19.5}
-        - {x: 59, y: 10.5}
-        - {x: 21, y: 24.5}
-    - name: ScoreUI
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Score UI
       rect:
         serializedVersion: 2
         x: 152
@@ -234,98 +205,20 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: ReadyToPlayTheGame
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ready To Play The Game
       rect:
         serializedVersion: 2
-        x: 7
-        y: 0
-        width: 165
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 48.5, y: 21}
-        - {x: 46.5, y: 19}
-        - {x: 46.5, y: 11}
-        - {x: 48.5, y: 6}
-        - {x: 56.5, y: -2}
-        - {x: 47.5, y: 6}
-        - {x: 44.5, y: 13}
-        - {x: 39.5, y: 21}
-        - {x: 20.5, y: 21}
-        - {x: 18.5, y: 17}
-        - {x: 18.5, y: 10}
-        - {x: 7.5, y: 21}
-        - {x: -40.5, y: 21}
-        - {x: -49.5, y: 17}
-        - {x: -50.5, y: 11}
-        - {x: -50.5, y: 4}
-        - {x: -50.5, y: 14}
-        - {x: -52.5, y: 21}
-        - {x: -82.5, y: 21}
-        - {x: -82.5, y: -21}
-        - {x: 62.5, y: -21}
-        - {x: 79.5, y: 6}
-        - {x: 79.5, y: 18}
-        - {x: 78.5, y: 21}
-    - name: Gameplay Elements_11
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 0
-        width: 32
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 21}
-        - {x: -16, y: 16}
-        - {x: -16, y: -21}
-        - {x: 15, y: -21}
-        - {x: 16, y: -18}
-        - {x: 16, y: 21}
-    - name: Gameplay Elements_12
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 0
-        width: 35
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 8.5, y: 21}
-        - {x: -11.5, y: 21}
-        - {x: -17.5, y: 8}
-        - {x: -17.5, y: -21}
-        - {x: 13.5, y: -21}
-        - {x: 17.5, y: -19}
-        - {x: 17.5, y: 2}
-    - name: Gameplay Elements_13
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 0
-        width: 28
+        x: 8
+        y: 1
+        width: 158
         height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Gameplay Elements_14
-      rect:
-        serializedVersion: 2
-        x: 138
-        y: 0
-        width: 29
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

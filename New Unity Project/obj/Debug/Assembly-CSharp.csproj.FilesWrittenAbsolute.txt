@@ -1,0 +1,17 @@
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/obj/Debug/Assembly-CSharp.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/UnityEngine.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/UnityEditor.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/AghAasad/GitHub/Jack-The-Giant-Unity-3D/New Unity Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
